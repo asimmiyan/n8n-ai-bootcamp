@@ -1,9 +1,5 @@
-User Name: Tobias
-
-Submitted: 2026-02-09T22:03:19.074+01:00
-
-Description:
-User Tobias reports that their laptop fell down. Potential hardware damage needs to be assessed.
-
-Status: Open
-Prio: Urgent
+VXNlciBOYW1lOiBUb2JpYXMKClN1Ym1pdHRlZDogMjAyNi0wMi0wOVQyMjow
+MzoxOS4wNzQrMDE6MDAKClRlc2NyaXB0aW9uOgpVc2VyIFRvYmlhcyByZXBv
+cnRzIHRoYXQgdGhlaXIgbGFwdG9wIGZlbGwgZG93bi4gUG90ZW50aWFsIGhh
+cmR3YXJlIGRhbWFnZSBuZWVkcyB0byBiZSBhc3Nlc3NlZC4KClN0YXR1czog
+T3BlbgpQcmlvOiBVcmdlbnQ=
